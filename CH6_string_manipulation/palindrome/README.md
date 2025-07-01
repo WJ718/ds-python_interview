@@ -22,8 +22,8 @@ _*기본적 처리*_
 
 ---
 
-**작성한 코드와 결과**
-<img src="./images/code.png"/>
+**작성한 코드와 결과**<br>
+<img src="./images/code.png"/><br>
 <img src="./images/result.png"/>
 
 ---

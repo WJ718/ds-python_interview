@@ -1,6 +1,7 @@
 import re
 
 strs = input()
+strs = strs.lower()
 strs = re.sub('[^a-z0-9]', '', strs)
 answer = True
 

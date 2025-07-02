@@ -5,7 +5,6 @@
 ---
 
 **[접근 방식]**
-_*기본적 처리*_<br>
 대소문자 구분 없음 → 모두 소문자로 변경<br>
 금지단어 → `[word for word in words if word not in banned]` 으로, 금지단어를 제외하고 새로운 리스트를 생성한다.<br>
 

@@ -5,8 +5,8 @@
 ---
 
 **[접근 방식]**
-대소문자 구분 없음 → 모두 소문자로 변경<br>
-금지단어 → `[word for word in words if word not in banned]` 으로, 금지단어를 제외하고 새로운 리스트를 생성한다.<br>
+- 대소문자 구분 없음 → 모두 소문자로 변경<br>
+- 금지단어 → `[word for word in words if word not in banned]` 으로, 금지단어를 제외하고 새로운 리스트를 생성한다.<br>
 
 **re 모듈 사용**
 - re모듈을 사용하여 문자열에서 사용된 단어만 새로운 리스트로 골라낸다.

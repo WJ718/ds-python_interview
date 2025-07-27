@@ -17,7 +17,8 @@
 ---
 
 **작성한 코드**<br>
-<img src="./images/code.png"/><br>
+<img src="./images/code1.png"/><br>
+<img src="./images/code2.png"/><br>
 
 ---
 

@@ -14,6 +14,6 @@
 
 ---
 
-**작성한 코드와 결과**<br>
+**작성한 코드**<br>
 <img src="./images/code.png"/><br>
 

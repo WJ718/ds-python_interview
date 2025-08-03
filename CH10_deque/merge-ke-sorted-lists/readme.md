@@ -18,6 +18,5 @@
 4. 힙이 빌 때까지 반복
 
 ---
-
 **구현 코드**
-<img src="./images/code.png"/><br>
+<br><img src="./images/code.png"/><br>
